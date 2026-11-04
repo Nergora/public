@@ -3,18 +3,18 @@
   "platforms": {
     "osx-arm64": {
       "path": "nergora-service-osx-arm64-0.3.0.zip",
-      "sha256": "c55bd7f0f533c154ae39d7198d5187d86540dfba0bd258608c405cc3d01bd7e9",
-      "size": 47920629
+      "sha256": "69a9ee3195b6ed7fa52b9be694d4d3134df13350b8700b63c71f2c97685cedfd",
+      "size": 47920564
     },
     "osx-x64": {
       "path": "nergora-service-osx-x64-0.3.0.zip",
-      "sha256": "98d06e0372b16c38c19c77817d1b3130d2d8918bb7920471982435719e18516f",
-      "size": 50594598
+      "sha256": "5f45928a83ffee3b99fa01bc27758abd9cdec15984206ed2d2d9bab438811b82",
+      "size": 50594525
     },
     "win-x64": {
       "path": "nergora-service-win-x64-0.3.0.zip",
-      "sha256": "9b298f262abc9a54b81bc964e11ce461e969fd31a70dc2916b2871f448719233",
-      "size": 51799828
+      "sha256": "459651d563633e649fe8914a3f789a35b91dd3b7c041a85487016825b82d2a30",
+      "size": 51799737
     }
   }
 }
